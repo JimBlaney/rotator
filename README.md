@@ -4,7 +4,7 @@
 
 The project combines mechanical simplicity (a passive spherical joint) with flexible and modern software design, making it ideal for satellite tracking, directional sensors, and robotics experimentation.
 
-![diagram](https://github.com/JimBlaney/rotator/blob/main/assets/diagram.jpg?raw=true)
+![diagram](https://github.com/JimBlaney/rotator/blob/main/assets/animation.gif?raw=true)  
 
 ## 📐 Mechanical Overview
 
@@ -132,3 +132,4 @@ This project is licensed under the MIT License.
 * Add more detail to the README.md
 * Convert video of real-life build to GIF and add to README.md
 * Add dynamic engage/disengage to the servos (via the Platform class) during periods of no input
+
