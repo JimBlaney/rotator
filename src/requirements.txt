@@ -1,0 +1,2 @@
+pyserial-asyncio
+pynput==1.4.5
